@@ -184,13 +184,13 @@
 .elementor-8 .elementor-element.elementor-element-7d61bb5 img {
     width: 85%;
 }
-
+/* Color 1 */
 .elementor-8 .elementor-element.elementor-element-95bf698 .ue-marquee {
-    background-color: #3C1153;
+    background-color: #000000;
     padding: 10px 10px 10px 10px;
     border-style: solid;
     border-width: 4px 00px 4px 0px;
-    border-color: #B433F9;
+    border-color: #f93333;
 }
 
 .elementor-8 .elementor-element.elementor-element-95bf698 .ue-marquee-tag {
@@ -340,7 +340,7 @@
 }
 
 .elementor-8 .elementor-element.elementor-element-0b50dc2>.elementor-background-overlay {
-    background-image: url("../images/bg07-01-Large.png");
+    background-image: url("../images/51883.jpg");
     background-position: center center;
     background-size: cover;
     opacity: 0.5;
@@ -884,12 +884,13 @@
     padding: 0px 0px 0px 0px;
 }
 
+/* color on border 2*/
 .elementor-8 .elementor-element.elementor-element-779a5b8 .ue-marquee {
-    background-color: #dc812b;
+    background-color: #ec0b0b;
     padding: 10px 10px 10px 10px;
     border-style: solid;
     border-width: 4px 00px 4px 0px;
-    border-color: #d08335;
+    border-color: #000000;
 }
 
 .elementor-8 .elementor-element.elementor-element-779a5b8 .ue-marquee-tag {
@@ -932,13 +933,13 @@
 .elementor-8 .elementor-element.elementor-element-779a5b8 {
     z-index: 1;
 }
-
+/*Color 3*/
 .elementor-8 .elementor-element.elementor-element-0998cc4 .ue-marquee {
-    background-color: #3C1153;
+    background-color: #000000;
     padding: 10px 10px 10px 10px;
     border-style: solid;
     border-width: 4px 00px 4px 0px;
-    border-color: #B433F9;
+    border-color: #f93333;
 }
 
 .elementor-8 .elementor-element.elementor-element-0998cc4 .ue-marquee-tag {
