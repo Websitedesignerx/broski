@@ -53,12 +53,13 @@
     padding: 0em 0em 0em 0em;
 }
 
+/*TITLE */
 .elementor-8 .elementor-element.elementor-element-8dcf0bc .ha-gradient-heading {
-    color: #d4914d;
+    color: #ff0000;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-color: transparent;
-    background-image: linear-gradient(30deg, #ce8546 0%, #B433F9 100%);
+    background-image: linear-gradient(30deg, #ff0000 0%, #000000 100%);
     font-family: "Montserrat", Sans-serif;
     font-size: 115px;
     font-weight: 900;
@@ -142,9 +143,9 @@
 .elementor-8 .elementor-element.elementor-element-1a03a2c .elementor-widget-container {
     text-align: center;
 }
-
+/*COLOR 8 SOCIAL */
 .elementor-8 .elementor-element.elementor-element-1a03a2c .elementor-social-icon {
-    background-color: #c68649;
+    background-color: #ff0000;
     --icon-padding: 0.2em;
 }
 
@@ -153,7 +154,7 @@
 }
 
 .elementor-8 .elementor-element.elementor-element-1a03a2c .elementor-social-icon:hover {
-    background-color: #B433F9;
+    background-color: #ff0000;
 }
 
 .elementor-bc-flex-widget .elementor-8 .elementor-element.elementor-element-19c0fa1.elementor-column .elementor-widget-wrap {
@@ -270,11 +271,11 @@
 }
 
 .elementor-8 .elementor-element.elementor-element-a2f145d .ha-gradient-heading {
-    color: #b87840;
+    color: #ff0000;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-color: transparent;
-    background-image: linear-gradient(320deg, #df834b 34%, #B433F9 100%);
+    background-image: linear-gradient(320deg, #ff0000 34%, #000000 100%);
     font-family: "Montserrat", Sans-serif;
     font-size: 60px;
     font-weight: 900;
@@ -360,12 +361,13 @@
     text-align: center;
 }
 
+/* TOKENOMICS */
 .elementor-8 .elementor-element.elementor-element-9219253 .ha-gradient-heading {
-    color: #bc8539;
+    color: #ff0000;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-color: transparent;
-    background-image: linear-gradient(320deg, #df7d38 34%, #B433F9 100%);
+    background-image: linear-gradient(320deg, #ff0000 34%, #000000 100%);
     font-family: "Montserrat", Sans-serif;
     font-size: 60px;
     font-weight: 900;
@@ -463,14 +465,14 @@
     font-size: 18px;
     font-weight: 500;
 }
-
+/* LIQUIDITY */
 .elementor-8 .elementor-element.elementor-element-1defd6d>.elementor-widget-container {
     padding: 20px 20px 20px 20px;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: #E6BBFD;
+    border-color: #ff0000;
     border-radius: 10px 10px 10px 10px;
-    box-shadow: 0px 0px 15px 2px #E6BBFD inset;
+    box-shadow: 0px 0px 15px 2px #ff0000 inset;
 }
 
 .elementor-8 .elementor-element.elementor-element-1defd6d {
@@ -505,9 +507,9 @@
     padding: 20px 20px 20px 20px;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: #CD77FB;
+    border-color: #ff0000;
     border-radius: 10px 10px 10px 10px;
-    box-shadow: 0px 0px 15px 2px #CD77FB inset;
+    box-shadow: 0px 0px 15px 2px #ff0000 inset;
 }
 
 .elementor-8 .elementor-element.elementor-element-9b6ae41 {
@@ -545,14 +547,14 @@
     font-size: 18px;
     font-weight: 500;
 }
-
+/* TAX */
 .elementor-8 .elementor-element.elementor-element-9eddaa9>.elementor-widget-container {
     padding: 20px 20px 20px 20px;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: #A106BA;
+    border-color: #ff0000;
     border-radius: 10px 10px 10px 10px;
-    box-shadow: 0px 0px 15px 2px #A106BA inset;
+    box-shadow: 0px 0px 15px 2px #ff0000 inset;
 }
 
 .elementor-8 .elementor-element.elementor-element-9eddaa9 {
@@ -591,9 +593,9 @@
     padding: 20px 20px 20px 20px;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: #A106BA;
+    border-color: #ff0000;
     border-radius: 10px 10px 10px 10px;
-    box-shadow: 0px 0px 15px 2px #A106BA inset;
+    box-shadow: 0px 0px 15px 2px #ff0000 inset;
 }
 
 .elementor-8 .elementor-element.elementor-element-21e9365 {
@@ -636,9 +638,9 @@
     padding: 20px 20px 20px 20px;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: #A106BA;
+    border-color: #ff0000;
     border-radius: 10px 10px 10px 10px;
-    box-shadow: 0px 0px 15px 2px #A106BA inset;
+    box-shadow: 0px 0px 15px 2px #ff0000 inset;
 }
 
 .elementor-8 .elementor-element.elementor-element-0fd6405 {
@@ -677,9 +679,9 @@
     padding: 20px 20px 20px 20px;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: #A106BA;
+    border-color: #0a0202;
     border-radius: 10px 10px 10px 10px;
-    box-shadow: 0px 0px 15px 2px #A106BA inset;
+    box-shadow: 0px 0px 15px 2px #ec0101 inset;
 }
 
 .elementor-8 .elementor-element.elementor-element-bcd7968 {
@@ -716,12 +718,12 @@
 }
 
 .elementor-8 .elementor-element.elementor-element-382c2e4 .ue-chart-subtitle {
-    color: #606060;
+    color: #ff0000;
     margin-top: 5px;
 }
 
 .elementor-8 .elementor-element.elementor-element-382c2e4 .data_item_background_color {
-    background-color: #800482;
+    background-color: #ff0000;
 }
 
 .elementor-8 .elementor-element.elementor-element-bbab4e4 .elementskit-section-title-wraper .elementskit-section-title {
@@ -747,14 +749,14 @@
     font-size: 18px;
     font-weight: 500;
 }
-
+/* color 11 CA */
 .elementor-8 .elementor-element.elementor-element-bbab4e4>.elementor-widget-container {
     padding: 20px 20px 20px 20px;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: #dc6f2b;
+    border-color: #ff0000;
     border-radius: 10px 10px 10px 10px;
-    box-shadow: 0px 0px 15px 2px #cb6d3e inset;
+    box-shadow: 0px 0px 15px 2px #ff0000 inset;
 }
 
 .elementor-8 .elementor-element.elementor-element-bbab4e4 {
@@ -797,11 +799,11 @@
 }
 
 .elementor-8 .elementor-element.elementor-element-f68ecf3 .ha-gradient-heading {
-    color: #d8853d;
+    color: #ff0000;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-color: transparent;
-    background-image: linear-gradient(320deg, #c57140 34%, #B433F9 100%);
+    background-image: linear-gradient(320deg, #ff0000 34%, #000000 100%);
     font-family: "Montserrat", Sans-serif;
     font-size: 60px;
     font-weight: 900;
@@ -884,7 +886,7 @@
     padding: 0px 0px 0px 0px;
 }
 
-/* color on border 2*/
+/* color 2*/
 .elementor-8 .elementor-element.elementor-element-779a5b8 .ue-marquee {
     background-color: #ec0b0b;
     padding: 10px 10px 10px 10px;
@@ -1005,13 +1007,13 @@
 .elementor-8 .elementor-element.elementor-element-b1fd7ec {
     text-align: center;
 }
-
+/* COLOR 4 */
 .elementor-8 .elementor-element.elementor-element-b1fd7ec .ha-gradient-heading {
-    color: #d7823c;
+    color: #ff0000;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-color: transparent;
-    background-image: linear-gradient(320deg, #da7e2e 34%, #B433F9 100%);
+    background-image: linear-gradient(320deg, #ff0000 34%, #000000 100%);
     font-family: "Montserrat", Sans-serif;
     font-size: 60px;
     font-weight: 900;
@@ -1023,17 +1025,17 @@
     margin: 0em 0em 0em 0em;
     padding: 0em 0em 2em 0em;
 }
-
+/* COLOR 6 PHASES */
 .elementor-8 .elementor-element.elementor-element-0d2fe8b:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-8 .elementor-element.elementor-element-0d2fe8b>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: transparent;
-    background-image: linear-gradient(136deg, #5B1780 0%, #dc632b 100%);
+    background-image: linear-gradient(136deg, #ff0000 0%, #000000 100%);
 }
 
 .elementor-8 .elementor-element.elementor-element-0d2fe8b>.elementor-element-populated {
     border-style: dashed;
     border-width: 2px 2px 2px 2px;
-    border-color: #B433F9;
+    border-color: #f93333;
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
 }
 
@@ -1169,7 +1171,7 @@
 .elementor-8 .elementor-element.elementor-element-5ec5c4e:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-8 .elementor-element.elementor-element-5ec5c4e>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: transparent;
-    background-image: linear-gradient(136deg, #5B1780 0%, #dc7b2b 100%);
+    background-image: linear-gradient(136deg, #ff0000 0%, #000000 100%);
 }
 
 .elementor-8 .elementor-element.elementor-element-5ec5c4e>.elementor-element-populated {
@@ -1311,7 +1313,7 @@
 .elementor-8 .elementor-element.elementor-element-8e51a21:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-8 .elementor-element.elementor-element-8e51a21>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: transparent;
-    background-image: linear-gradient(136deg, #5B1780 0%, #dc6f2b 100%);
+    background-image: linear-gradient(136deg, #ff0000 0%, #000000 100%);
 }
 
 .elementor-8 .elementor-element.elementor-element-8e51a21>.elementor-element-populated {
@@ -1471,12 +1473,13 @@
     text-align: center;
 }
 
+/* COLOR 5 */
 .elementor-8 .elementor-element.elementor-element-b37c230 .ha-gradient-heading {
-    color: #de7424;
+    color: #ff0000;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-color: transparent;
-    background-image: linear-gradient(230deg, #e06f2e 0%, #B433F9 100%);
+    background-image: linear-gradient(230deg, #ff0000 0%, #000000 100%);
     font-family: "Montserrat", Sans-serif;
     font-size: 45px;
     font-weight: 900;
@@ -1544,7 +1547,7 @@
 }
 
 .elementor-8 .elementor-element.elementor-element-150630f .elementor-social-icon {
-    background-color: #dd661d;
+    background-color: #ff0000;
     --icon-padding: 0.2em;
 }
 
